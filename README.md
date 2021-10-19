@@ -1,2 +1,2 @@
 # Memory
-Jogo da memória
+Jogo da memória baseado no Super Mário.
