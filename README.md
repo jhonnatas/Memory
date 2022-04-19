@@ -9,8 +9,8 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [CSS3](https://reactnative.dev/)
-- [HTML5](https://www.typescriptlang.org/)
+- [CSS3](https://www.w3schools.com/css/)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [Javascript](https://www.javascript.com/)
 
 <h1>Imagem do jogo</h1>
